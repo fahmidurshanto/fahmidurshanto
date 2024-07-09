@@ -25,7 +25,7 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-<a href="https://visitcount.itsvg.in">
+<a href="https://visitcount.itsvg.in/analytics/fahmidurshanto">
   <img src="https://visitcount.itsvg.in/api?id=fahmidurshanto&label=Profile%20Views&color=3&icon=5&pretty=false" />
 </a>
 
