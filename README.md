@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**fahmidurshanto/fahmidurshanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ ✨ Hi, I'm Fahmidur Rahaman Shanto ✨
 
 - 🔭 I’m currently studing MBA in Management at National University. 
 - 🌱 I’m currently learning MERN stack
