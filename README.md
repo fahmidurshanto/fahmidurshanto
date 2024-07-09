@@ -25,6 +25,8 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fahmidurshanto&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=fahmidurshanto&label=Profile%20Views&color=3&icon=5&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
