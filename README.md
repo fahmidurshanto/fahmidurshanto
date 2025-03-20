@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGQPbea4qmn5g/profile-displaybackgroundimage-shrink_350_1400/B56ZU2fvpvGoAY-/0/1740376047212?e=1747872000&v=beta&t=VnNEU41Y1V1NToRCi0bKNs8vbF75UWglVfeJIYoQ2ys" />
-h1 align="center">Hi 👋, I'm Fahmidur Rahaman Shanto</h1>
+<h1 align="center">Hi 👋, I'm Fahmidur Rahaman Shanto</h1>
 <h3 align="center">A passionate Mern Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmidurshanto&label=Profile%20views&color=0e75b6&style=flat" alt="fahmidurshanto" /> </p>
