@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGQPbea4qmn5g/profile-displaybackgroundimage-shrink_350_1400/B56ZU2fvpvGoAY-/0/1740376047212?e=1747872000&v=beta&t=VnNEU41Y1V1NToRCi0bKNs8vbF75UWglVfeJIYoQ2ys" 
-       style="width: 120px; border-radius: 50%; border: 3px solid #00ff88; box-shadow: 0 0 20px #00ff88;" />
+       style="width: 100%; border-radius: 50%; border: 3px solid #00ff88; box-shadow: 0 0 20px #00ff88;" />
   
   <h1 align="center"> 
     <a href="https://git.io/typing-svg">
