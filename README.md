@@ -20,7 +20,7 @@
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&theme=onedark&row=1&column=7" alt="fahmidurshanto" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&row=1" alt="fahmidurshanto" />
   </a>
 </p>
 
