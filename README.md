@@ -105,7 +105,7 @@
   <br/>
   <h3>🔥 GitHub Streak</h3>
   <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #ff6b6b; display: inline-block;">
-    <img src="https://streak-stats.demolab.com?user=fahmidurshanto&theme=radical&hide_border=true" alt="fahmidurshanto" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fahmidurshanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=24" alt="fahmidurshanto" height="180" />
   </div>
   
   <!-- Activity Graph -->
