@@ -117,9 +117,9 @@
 
 ## 💻 Coding Activity
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 800px;">
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px;">
   <tr>
-    <td style="padding: 20px; border: 2px solid #00ff9d; border-radius: 10px; background-color: #20232a;">
+    <td style="padding: 20px; border: 2px solid #00ff9d; border-radius: 10px; background-color: #20232a; width: 33%; vertical-align: top;">
       <h3 style="color: #00ff9d; text-align: center;">🚀 Currently Working On:</h3>
       <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
         <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔸</span> MERN Stack Applications</li>
@@ -127,9 +127,7 @@
         <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔸</span> Node.js Backend APIs</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; border: 2px solid #764ba2; border-radius: 10px; background-color: #20232a; margin-top: 20px;">
+    <td style="padding: 20px; border: 2px solid #764ba2; border-radius: 10px; background-color: #20232a; width: 33%; vertical-align: top; margin: 0 10px;">
       <h3 style="color: #764ba2; text-align: center;">📚 Learning:</h3>
       <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
         <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔹</span> Advanced JavaScript</li>
@@ -137,9 +135,7 @@
         <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔹</span> Database Optimization</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; border: 2px solid #ff6b6b; border-radius: 10px; background-color: #20232a; margin-top: 20px;">
+    <td style="padding: 20px; border: 2px solid #ff6b6b; border-radius: 10px; background-color: #20232a; width: 33%; vertical-align: top;">
       <h3 style="color: #ff6b6b; text-align: center;">🎯 Goals:</h3>
       <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
         <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">⭐</span> Build 10+ Projects</li>
