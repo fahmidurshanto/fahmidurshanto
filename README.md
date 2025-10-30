@@ -134,6 +134,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fahmidurshanto&show_icons=true&locale=en&theme=radical" alt="fahmidurshanto" />
 </div>
 
+<!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidurshanto&theme=radical" alt="fahmidurshanto" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidurshanto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="fahmidurshanto" />
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmidurshanto&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="fahmidurshanto" />
 </div>
