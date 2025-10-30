@@ -98,22 +98,28 @@
   <!-- Contribution Calendar -->
   <br/>
   <h3>🎯 Contribution Calendar</h3>
-  <img src="https://ghchart.rshah.org/fahmidurshanto" alt="fahmidurshanto" />
-  <p><em>596 contributions in the last year</em></p>
+  <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #00ff9d;">
+    <img src="https://ghchart.rshah.org/fahmidurshanto" alt="fahmidurshanto" />
+    <p><em>596 contributions in the last year</em></p>
+  </div>
 
 </div>
 
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/fahmidurshanto?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" />
+  <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #764ba2; margin: 20px 0;">
+    <img src="https://metrics.lecoq.io/fahmidurshanto?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" width="100%" />
+  </div>
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahmidurshanto/fahmidurshanto/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  <p><em>GitHub contribution activity visualized as a snake animation</em></p>
+  <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #ff6b6b; margin: 20px 0;">
+    <img src="https://raw.githubusercontent.com/fahmidurshanto/fahmidurshanto/output/github-contribution-grid-snake.svg" alt="snake animation" />
+    <p><em>GitHub contribution activity visualized as a snake animation</em></p>
+  </div>
 </div>
 
 ## 💻 Coding Activity
