@@ -104,23 +104,8 @@
   <!-- Streak Stats -->
   <br/>
   <h3>🔥 GitHub Streak</h3>
-  <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #ff6b6b; display: inline-block; width: 400px; height: 180px;">
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
-      <div style="display: flex; justify-content: space-around; width: 100%; margin-bottom: 15px;">
-        <div style="text-align: center;">
-          <div style="font-size: 24px; font-weight: bold; color: #ff6b6b;">🔥 12</div>
-          <div style="font-size: 14px; color: #ccc;">Current Streak</div>
-        </div>
-        <div style="text-align: center;">
-          <div style="font-size: 24px; font-weight: bold; color: #ff6b6b;">⭐ 45</div>
-          <div style="font-size: 14px; color: #ccc;">Longest Streak</div>
-        </div>
-      </div>
-      <div style="text-align: center;">
-        <div style="font-size: 20px; font-weight: bold; color: #ff6b6b;">📊 596</div>
-        <div style="font-size: 14px; color: #ccc;">Total Contributions</div>
-      </div>
-    </div>
+  <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #ff6b6b; display: inline-block;">
+    <img src="https://streak-stats.demolab.com?user=fahmidurshanto&theme=radical&hide_border=true" alt="fahmidurshanto" height="180" />
   </div>
   
   <!-- Activity Graph -->
