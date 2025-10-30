@@ -113,6 +113,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/fahmidurshanto/fahmidurshanto/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <p><em>GitHub contribution activity visualized as a snake animation</em></p>
 </div>
 
 ## 💻 Coding Activity
