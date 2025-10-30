@@ -1,155 +1,243 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGQPbea4qmn5g/profile-displaybackgroundimage-shrink_350_1400/B56ZU2fvpvGoAY-/0/1740376047212?e=1747872000&v=beta&t=VnNEU41Y1V1NToRCi0bKNs8vbF75UWglVfeJIYoQ2ys" alt="Fahmidur Rahaman Shanto" width="100%" style="border-radius: 10px;" />
-</div>
-
-<!-- Animated Header Section -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Fahmidur Rahaman Shanto" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d; margin-top: 20px;" />
   
-  <h1 style="font-size: 3em; margin-bottom: 0;">
-    Hi 👋, I'm <span style="color: #00ff9d;">Fahmidur Rahaman Shanto</span>
+  <!-- Animated Header with Gradient -->
+  <div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 20px; margin-bottom: 30px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5616AQGQPbea4qmn5g/profile-displaybackgroundimage-shrink_350_1400/B56ZU2fvpvGoAY-/0/1740376047212?e=1747872000&v=beta&t=VnNEU41Y1V1NToRCi0bKNs8vbF75UWglVfeJIYoQ2ys" 
+         alt="Fahmidur Rahaman Shanto" 
+         width="100%" 
+         style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  </div>
+
+  <!-- Animated Profile Picture -->
+  <div style="animation: float 6s ease-in-out infinite;">
+    <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" 
+         alt="Fahmidur Rahaman Shanto" 
+         width="220" 
+         height="220" 
+         style="border-radius: 50%; border: 6px solid #00ff9d; box-shadow: 0 0 30px #00ff9d, 0 0 60px rgba(0, 255, 157, 0.3);" />
+  </div>
+
+  <!-- Animated Typing Text -->
+  <h1 style="font-size: 3.5em; margin-bottom: 10px; background: linear-gradient(45deg, #00ff9d, #00b8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: glow 2s ease-in-out infinite alternate;">
+    Hi 👋, I'm Fahmidur Rahaman Shanto
   </h1>
-  <h3 style="font-size: 1.5em; margin-top: 10px;">
-    A passionate MERN Stack Web Developer
-  </h3>
+  
+  <!-- Rotating Badges -->
+  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/MERN-Stack-00ff9d?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
+    <img src="https://img.shields.io/badge/Full-Stack Developer-764ba2?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  </div>
+
 </div>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahmidurshanto&label=Profile%20views&color=0e75b6&style=flat" alt="fahmidurshanto" />
+  <img src="https://komarev.com/ghpvc/?username=fahmidurshanto&label=Profile%20views&color=00ff9d&style=for-the-badge" alt="fahmidurshanto" />
 </p>
 
-<!-- Enhanced GitHub Trophy -->
-<div align="center">
-  <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="fahmidurshanto" />
+<!-- Enhanced GitHub Trophy with Animation -->
+<div align="center" style="animation: fadeIn 2s;">
+  <h2 style="font-size: 2em; margin-bottom: 20px; background: linear-gradient(45deg, #ff6b6b, #ffd93d); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" 
+       alt="fahmidurshanto" 
+       style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 </div>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://twitter.com/fahmidurrshanto" target="blank">
-    <img src="https://img.shields.io/twitter/follow/fahmidurrshanto?logo=twitter&style=for-the-badge" alt="fahmidurrshanto" />
-  </a>
-</p>
-
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Fahmidur Rahaman Shanto" width="150" height="150" style="border-radius: 50%; border: 4px solid #00ff9d;" />
+<!-- Social Badges with Hover Effect -->
+<div align="center" style="margin: 30px 0;">
+  <h3 style="font-size: 1.5em; margin-bottom: 15px;">🌐 Connect With Me</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <a href="https://twitter.com/fahmidurrshanto" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+    <a href="https://www.linkedin.com/in/fahmidurshanto" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+    <a href="https://fb.com/mdfahmidurrahman.shanto.9" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+    <a href="https://instagram.com/fahmidurrahamanshanto" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+  </div>
 </div>
 
-<table align="center">
-  <tr>
-    <td><strong>👨‍💻 Pronouns:</strong></td>
-    <td>He / Him</td>
-  </tr>
-  <tr>
-    <td><strong>💬 Ask Me About:</strong></td>
-    <td>Web Development, Tech, App Development, MERN Stack</td>
-  </tr>
-  <tr>
-    <td><strong>📚 Currently Learning:</strong></td>
-    <td>MERN Stack Web Development</td>
-  </tr>
-  <tr>
-    <td><strong>⚡ Fun Fact:</strong></td>
-    <td>There are two ways to write error-free programs; only the third one works</td>
-  </tr>
-</table>
+<!-- About Me Section with Glassmorphism Effect -->
+<div align="center" style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); padding: 30px; border-radius: 20px; margin: 30px 0; border: 1px solid rgba(255,255,255,0.2);">
+  <h2 style="font-size: 2em; margin-bottom: 20px; background: linear-gradient(45deg, #00ff9d, #00b8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💫 About Me</h2>
+  
+  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" 
+       alt="Fahmidur Rahaman Shanto" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 4px solid #00ff9d; margin-bottom: 20px; box-shadow: 0 0 20px rgba(0, 255, 157, 0.5);" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Connect with me
-
-<p align="center">
-  <a href="https://dev.to/fahmidurshanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fahmidurshanto" height="40" width="50" />
-  </a>
-  <a href="https://twitter.com/fahmidurrshanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmidurrshanto" height="40" width="50" />
-  </a>
-  <a href="https://fb.com/mdfahmidurrahman.shanto.9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdfahmidurrahman.shanto.9" height="40" width="50" />
-  </a>
-  <a href="https://instagram.com/fahmidurrahamanshanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmidurrahamanshanto" height="40" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/fahmidurrahaman1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahmidurrahaman1" height="40" width="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/fahmidurshanto" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmidurrahaman1" height="40" width="50" />
-  </a>
-</p>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> Languages and Tools
-
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" />
-  </a>
-</p>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmidurshanto&show_icons=true&locale=en&layout=compact&theme=radical" alt="fahmidurshanto" />
+  <table align="center" style="background: rgba(0,0,0,0.3); border-radius: 15px; padding: 20px;">
+    <tr>
+      <td><strong>👨‍💻 Pronouns:</strong></td>
+      <td>He / Him</td>
+    </tr>
+    <tr>
+      <td><strong>💬 Ask Me About:</strong></td>
+      <td>Web Development, Tech, App Development, MERN Stack</td>
+    </tr>
+    <tr>
+      <td><strong>📚 Currently Learning:</strong></td>
+      <td>MERN Stack Web Development</td>
+    </tr>
+    <tr>
+      <td><strong>🎯 Current Focus:</strong></td>
+      <td>Building Scalable Web Applications</td>
+    </tr>
+    <tr>
+      <td><strong>⚡ Fun Fact:</strong></td>
+      <td>There are two ways to write error-free programs; only the third one works</td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmidurshanto&show_icons=true&locale=en&theme=radical" alt="fahmidurshanto" />
+<!-- Tech Stack with Animated Icons -->
+<div align="center" style="margin: 40px 0;">
+  <h2 style="font-size: 2em; margin-bottom: 30px; background: linear-gradient(45deg, #ff6b6b, #ffd93d); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🛠️ Tech Stack</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+      <p>React</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+      <p>Node.js</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+      <p>MongoDB</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+      <p>Express</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+      <p>JavaScript</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+      <p>HTML5</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+      <p>CSS3</p>
+    </div>
+    <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+      <p>Tailwind</p>
+    </div>
+  </div>
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <h3>🔥 My Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidurshanto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="fahmidurshanto" />
+<!-- GitHub Stats Section -->
+<div align="center" style="margin: 50px 0;">
+  <h2 style="font-size: 2em; margin-bottom: 30px; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📊 GitHub Analytics</h2>
+
+  <!-- Stats Grid -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=fahmidurshanto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
+         alt="fahmidurshanto" 
+         style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmidurshanto&show_icons=true&locale=en&layout=compact&theme=radical" 
+         alt="fahmidurshanto" 
+         style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  </div>
+
+  <!-- Streak Stats -->
+  <div style="margin: 30px 0;">
+    <h3 style="font-size: 1.5em; margin-bottom: 20px;">🔥 Contribution Streak</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidurshanto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" 
+         alt="fahmidurshanto" 
+         style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  </div>
+
+  <!-- Contribution Graph -->
+  <div style="margin: 30px 0;">
+    <h3 style="font-size: 1.5em; margin-bottom: 20px;">📈 Contribution Graph</h3>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmidurshanto&custom_title=Fahmidur's%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&area=true&area_color=F85D7F" 
+         alt="fahmidurshanto" 
+         style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  </div>
+
+  <!-- GitHub Contribution Calendar -->
+  <div style="margin: 30px 0;">
+    <h3 style="font-size: 1.5em; margin-bottom: 20px;">🎯 GitHub Contributions</h3>
+    <img src="https://ghchart.rshah.org/fahmidurshanto" 
+         alt="fahmidurshanto" 
+         style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+    <p style="margin-top: 10px; font-style: italic;">596 contributions in the last year</p>
+  </div>
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmidurshanto&custom_title=Fahmidur's%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="fahmidurshanto" />
+<!-- Metrics Section -->
+<div align="center" style="margin: 40px 0;">
+  <h2 style="font-size: 2em; margin-bottom: 20px; background: linear-gradient(45deg, #00ff9d, #00b8ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📈 Detailed Metrics</h2>
+  <img src="https://metrics.lecoq.io/fahmidurshanto?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka" 
+       alt="GitHub Metrics" 
+       style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Fahmidur Rahaman Shanto" width="80" height="80" style="border-radius: 50%;" />
-  <p><em>Thanks for visiting my profile! Have a great day! 😊</em></p>
+<!-- WakaTime Stats (if you use it) -->
+<div align="center" style="margin: 40px 0;">
+  <h2 style="font-size: 2em; margin-bottom: 20px; background: linear-gradient(45deg, #ff6b6b, #ffd93d); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">⏰ Weekly Development Breakdown</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmidurshanto&layout=compact&theme=radical&custom_title=Weekly%20Development%20Time" 
+       alt="WakaTime" 
+       style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 </div>
+
+<!-- Snake Animation -->
+<div align="center" style="margin: 40px 0;">
+  <h2 style="font-size: 2em; margin-bottom: 20px;">🐍 Contribution Snake</h2>
+  <img src="https://github.com/fahmidurshanto/fahmidurshanto/blob/output/github-contribution-grid-snake.svg" 
+       alt="snake animation" 
+       style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+</div>
+
+<!-- Footer -->
+<div align="center" style="margin-top: 50px; padding: 30px; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); border-radius: 20px;">
+  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" 
+       alt="Fahmidur Rahaman Shanto" 
+       width="80" 
+       height="80" 
+       style="border-radius: 50%; border: 3px solid white; margin-bottom: 15px;" />
+  
+  <p style="font-size: 1.2em; color: white; margin-bottom: 10px;">
+    <strong>Thanks for visiting my profile! 🚀</strong>
+  </p>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/🚀-Keep%20Coding-00ff9d?style=for-the-badge" alt="Keep Coding" />
+    <img src="https://img.shields.io/badge/💻-Full%20Stack-764ba2?style=for-the-badge" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/⭐-Star%20My%20Repos-yellow?style=for-the-badge" alt="Star Repos" />
+  </div>
+</div>
+
+<!-- CSS Animations (Note: GitHub doesn't support full CSS but some inline styles work) -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  @keyframes glow {
+    from { text-shadow: 0 0 10px #00ff9d, 0 0 20px #00ff9d, 0 0 30px #00ff9d; }
+    to { text-shadow: 0 0 20px #00b8ff, 0 0 30px #00b8ff, 0 0 40px #00b8ff; }
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
+<!-- Note: For full animations, consider creating a GitHub Pages site -->
