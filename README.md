@@ -134,12 +134,20 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fahmidurshanto&show_icons=true&locale=en&theme=radical" alt="fahmidurshanto" />
 </div>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats - Primary -->
 <div align="center">
+  <h3>🔥 My Contribution Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidurshanto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="fahmidurshanto" />
 </div>
 
-<!-- GitHub Activity Graph -->
+<!-- Alternative Streak Display -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmidurshanto&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="fahmidurshanto" />
+  <h3>📊 GitHub Metrics</h3>
+  <img src="https://metrics.lecoq.io/fahmidurshanto?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
+</div>
+
+<!-- Weekly Development Breakdown -->
+<div align="center">
+  <h3>💻 Weekly Development Breakdown</h3>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmidurshanto&layout=compact&theme=radical" alt="Weekly Development" />
 </div>
