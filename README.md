@@ -117,24 +117,38 @@
 
 ## 💻 Coding Activity
 
-<div align="center">
-
-**🚀 Currently Working On:**
-- MERN Stack Applications
-- React Projects
-- Node.js Backend APIs
-
-**📚 Learning:**
-- Advanced JavaScript
-- System Design
-- Database Optimization
-
-**🎯 Goals:**
-- Build 10+ Projects
-- Contribute to Open Source
-- Master Full Stack Development
-
-</div>
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 800px;">
+  <tr>
+    <td style="padding: 20px; border: 2px solid #00ff9d; border-radius: 10px; background-color: #20232a;">
+      <h3 style="color: #00ff9d; text-align: center;">🚀 Currently Working On:</h3>
+      <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔸</span> MERN Stack Applications</li>
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔸</span> React Projects</li>
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔸</span> Node.js Backend APIs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px; border: 2px solid #764ba2; border-radius: 10px; background-color: #20232a; margin-top: 20px;">
+      <h3 style="color: #764ba2; text-align: center;">📚 Learning:</h3>
+      <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔹</span> Advanced JavaScript</li>
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔹</span> System Design</li>
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">🔹</span> Database Optimization</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px; border: 2px solid #ff6b6b; border-radius: 10px; background-color: #20232a; margin-top: 20px;">
+      <h3 style="color: #ff6b6b; text-align: center;">🎯 Goals:</h3>
+      <ul style="text-align: left; color: white; list-style-type: none; padding: 0;">
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">⭐</span> Build 10+ Projects</li>
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">⭐</span> Contribute to Open Source</li>
+        <li style="margin: 10px 0; padding-left: 25px; position: relative;"><span style="position: absolute; left: 0;">⭐</span> Master Full Stack Development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 📫 How to Reach Me
 
