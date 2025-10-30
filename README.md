@@ -77,12 +77,16 @@
 ![REST API](https://img.shields.io/badge/-REST_API-007ACC?style=for-the-badge&logoWidth=30)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=30)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge&logoWidth=30)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=30)
 ![Odoo](https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=for-the-badge&logoWidth=30)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=30)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&logoWidth=30)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=for-the-badge&logoWidth=30)
+![Qoder](https://img.shields.io/badge/-Qoder-000000?style=for-the-badge&logoWidth=30)
+![Windsurf](https://img.shields.io/badge/-Windsurf-000000?style=for-the-badge&logoWidth=30)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&logoWidth=30)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&logoWidth=30)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoWidth=30)
