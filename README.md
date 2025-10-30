@@ -27,7 +27,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&theme=radical&no-frame=false&row=2&column=4" alt="fahmidurshanto" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&theme=radical&no-frame=false&row=2&column=4&no-bg=false&margin-w=15&margin-h=15" alt="fahmidurshanto" />
+  <p><em>Total Trophies: Displayed above</em></p>
 </div>
 
 ## 🌐 Social Links
