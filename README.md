@@ -4,6 +4,8 @@
 
 <!-- Animated Header Section -->
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Fahmidur Rahaman Shanto" width="200" height="200" style="border-radius: 50%; border: 5px solid #00ff9d; margin-top: 20px;" />
+  
   <h1 style="font-size: 3em; margin-bottom: 0;">
     Hi 👋, I'm <span style="color: #00ff9d;">Fahmidur Rahaman Shanto</span>
   </h1>
@@ -17,12 +19,11 @@
   <img src="https://komarev.com/ghpvc/?username=fahmidurshanto&label=Profile%20views&color=0e75b6&style=flat" alt="fahmidurshanto" />
 </p>
 
-<!-- GitHub Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&row=1" alt="fahmidurshanto" />
-  </a>
-</p>
+<!-- Enhanced GitHub Trophy -->
+<div align="center">
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=fahmidurshanto&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="fahmidurshanto" />
+</div>
 
 <!-- Social Badges -->
 <p align="center">
@@ -34,25 +35,25 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/user-male-circle--v1.png" width="100" height="100"/>
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Fahmidur Rahaman Shanto" width="150" height="150" style="border-radius: 50%; border: 4px solid #00ff9d;" />
+</div>
 
 <table align="center">
   <tr>
-    <td><strong>Pronouns:</strong></td>
+    <td><strong>👨‍💻 Pronouns:</strong></td>
     <td>He / Him</td>
   </tr>
   <tr>
-    <td><strong>Ask Me About:</strong></td>
+    <td><strong>💬 Ask Me About:</strong></td>
     <td>Web Development, Tech, App Development, MERN Stack</td>
   </tr>
   <tr>
-    <td><strong>Currently Learning:</strong></td>
+    <td><strong>📚 Currently Learning:</strong></td>
     <td>MERN Stack Web Development</td>
   </tr>
   <tr>
-    <td><strong>Fun Fact:</strong></td>
+    <td><strong>⚡ Fun Fact:</strong></td>
     <td>There are two ways to write error-free programs; only the third one works</td>
   </tr>
 </table>
@@ -134,20 +135,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fahmidurshanto&show_icons=true&locale=en&theme=radical" alt="fahmidurshanto" />
 </div>
 
-<!-- GitHub Streak Stats - Primary -->
+<!-- GitHub Streak Stats -->
 <div align="center">
   <h3>🔥 My Contribution Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmidurshanto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="fahmidurshanto" />
 </div>
 
-<!-- Alternative Streak Display -->
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <h3>📊 GitHub Metrics</h3>
-  <img src="https://metrics.lecoq.io/fahmidurshanto?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka" alt="GitHub Metrics" />
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmidurshanto&custom_title=Fahmidur's%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="fahmidurshanto" />
 </div>
 
-<!-- Weekly Development Breakdown -->
+---
+
 <div align="center">
-  <h3>💻 Weekly Development Breakdown</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmidurshanto&layout=compact&theme=radical" alt="Weekly Development" />
+  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Fahmidur Rahaman Shanto" width="80" height="80" style="border-radius: 50%;" />
+  <p><em>Thanks for visiting my profile! Have a great day! 😊</em></p>
 </div>
