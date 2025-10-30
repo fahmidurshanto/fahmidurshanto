@@ -97,42 +97,47 @@
   </table>
 </div>
 
-<!-- Tech Stack with Animated Icons -->
+<!-- Tech Stack with Horizontal Layout -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="font-size: 2em; margin-bottom: 30px; background: linear-gradient(45deg, #ff6b6b, #ffd93d); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">🛠️ Tech Stack</h2>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+  <!-- First Row of Tech Stack -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px; margin-bottom: 20px;">
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-      <p>React</p>
+      <p style="margin-top: 8px; font-weight: bold;">React</p>
     </div>
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-      <p>Node.js</p>
+      <p style="margin-top: 8px; font-weight: bold;">Node.js</p>
     </div>
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-      <p>MongoDB</p>
+      <p style="margin-top: 8px; font-weight: bold;">MongoDB</p>
     </div>
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-      <p>Express</p>
+      <p style="margin-top: 8px; font-weight: bold;">Express</p>
     </div>
+  </div>
+  
+  <!-- Second Row of Tech Stack -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-      <p>JavaScript</p>
+      <p style="margin-top: 8px; font-weight: bold;">JavaScript</p>
     </div>
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-      <p>HTML5</p>
+      <p style="margin-top: 8px; font-weight: bold;">HTML5</p>
     </div>
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-      <p>CSS3</p>
+      <p style="margin-top: 8px; font-weight: bold;">CSS3</p>
     </div>
     <div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-      <p>Tailwind</p>
+      <p style="margin-top: 8px; font-weight: bold;">Tailwind</p>
     </div>
   </div>
 </div>
@@ -174,7 +179,7 @@
     <img src="https://ghchart.rshah.org/fahmidurshanto" 
          alt="fahmidurshanto" 
          style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
-    <p style="margin-top: 10px; font-style: italic;">596 contributions in the last year</p>
+    <p style="margin-top: 10px; font-style: italic; font-size: 1.1em;">🎉 596 contributions in the last year</p>
   </div>
 </div>
 
@@ -186,20 +191,27 @@
        style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 </div>
 
-<!-- WakaTime Stats (if you use it) -->
-<div align="center" style="margin: 40px 0;">
-  <h2 style="font-size: 2em; margin-bottom: 20px; background: linear-gradient(45deg, #ff6b6b, #ffd93d); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">⏰ Weekly Development Breakdown</h2>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmidurshanto&layout=compact&theme=radical&custom_title=Weekly%20Development%20Time" 
-       alt="WakaTime" 
-       style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
-</div>
-
 <!-- Snake Animation -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="font-size: 2em; margin-bottom: 20px;">🐍 Contribution Snake</h2>
-  <img src="https://github.com/fahmidurshanto/fahmidurshanto/blob/output/github-contribution-grid-snake.svg" 
+  <img src="https://raw.githubusercontent.com/fahmidurshanto/fahmidurshanto/output/github-contribution-grid-snake.svg" 
        alt="snake animation" 
        style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+</div>
+
+<!-- Coding Activity Section (Replacement for WakaTime) -->
+<div align="center" style="margin: 40px 0;">
+  <h2 style="font-size: 2em; margin-bottom: 20px; background: linear-gradient(45deg, #ff6b6b, #ffd93d); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💻 Coding Activity</h2>
+  <div style="background: rgba(255,255,255,0.1); padding: 25px; border-radius: 15px; max-width: 600px; margin: 0 auto;">
+    <h3 style="color: #00ff9d; margin-bottom: 15px;">🚀 Recent Development Focus</h3>
+    <ul style="text-align: left; color: white; font-size: 1.1em;">
+      <li>🔥 MERN Stack Applications</li>
+      <li>⚡ React & Node.js Development</li>
+      <li>🎯 Full-Stack Web Solutions</li>
+      <li>💾 Database Design & Optimization</li>
+      <li>🔗 RESTful API Development</li>
+    </ul>
+  </div>
 </div>
 
 <!-- Footer -->
@@ -221,7 +233,7 @@
   </div>
 </div>
 
-<!-- CSS Animations (Note: GitHub doesn't support full CSS but some inline styles work) -->
+<!-- CSS Animations -->
 <style>
   @keyframes float {
     0% { transform: translateY(0px); }
@@ -239,5 +251,3 @@
     to { opacity: 1; transform: translateY(0); }
   }
 </style>
-
-<!-- Note: For full animations, consider creating a GitHub Pages site -->
