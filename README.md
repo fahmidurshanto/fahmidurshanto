@@ -1,6 +1,17 @@
 <div align="center">
   <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" alt="Fahmidur Rahaman Shanto" width="200" height="200" style="border-radius: 100%; border: 5px solid #00ff9d; border-radius: 50%;"/>
+  <img 
+  src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" 
+  alt="Fahmidur Rahaman Shanto"
+  style="
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 5px solid #00ff9d;
+  "
+/>
+
   
   <!-- Title -->
   <h1>Hi 👋, I'm Fahmidur Rahaman Shanto</h1>
