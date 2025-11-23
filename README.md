@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Profile Picture -->
   <img 
-  src="https://avatars.githubusercontent.com/u/118394676?s=400&u=1337b2f2509d9692d42e34f8199946ebc310be5c&v=4" 
+  src="https://i.ibb.co.com/YTqBvbS3/image-removebg-preview.png" 
   alt="Fahmidur Rahaman Shanto"
   style="
     width: 200px; 
