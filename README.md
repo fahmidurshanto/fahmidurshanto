@@ -6,9 +6,9 @@
   style="
     width: 200px; 
     height: 200px; 
-    border-radius: 50%; 
-    object-fit: cover;
-    border: 5px solid #00ff9d;
+    border-radius: 50% !important; 
+    object-fit: cover !important;
+    border: 5px solid #00ff9d !important;
   "
 />
 
