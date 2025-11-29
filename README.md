@@ -138,15 +138,6 @@
   </div>
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <div style="background-color: #20232a; padding: 15px; border-radius: 10px; border: 2px solid #ff6b6b; margin: 20px 0;">
-    <img src="https://raw.githubusercontent.com/fahmidurshanto/fahmidurshanto/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-    <p><em>GitHub contribution activity visualized as a snake animation</em></p>
-  </div>
-</div>
-
 ## 💻 Coding Activity
 
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px;">
