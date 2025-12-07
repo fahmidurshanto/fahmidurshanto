@@ -61,7 +61,7 @@
 - 🌱 I'm currently learning **Advanced React & Node.js**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 How to reach me: **fahmidurrahaman1@gmail.com**
+- 📫 How to reach me: **fahmidurrahamanshanto@gmail.com**
 - ⚡ Fun fact: **There are two ways to write error-free programs; only the third one works**
 
 ## 🛠️ Tech Stack
