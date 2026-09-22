@@ -5,20 +5,6 @@
 </picture>
 
 <div align="center">
-  <!-- Profile Picture -->
-  <img 
-  src="https://i.ibb.co.com/YTqBvbS3/image-removebg-preview.png" 
-  alt="Fahmidur Rahaman Shanto"
-  style="
-    width: 200px; 
-    height: 200px; 
-    border-radius: 50% !important; 
-    object-fit: cover !important;
-    border: 5px solid #00ff9d !important;
-  "
-/>
-
-  
   <!-- Title -->
   <h1>Hi 👋, I'm Fahmidur Rahaman Shanto</h1>
   <h3>A passionate MERN Stack Developer from Bangladesh</h3>
