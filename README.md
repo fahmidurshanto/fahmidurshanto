@@ -42,9 +42,6 @@
   <a href="https://fb.com/mdfahmidurrahman.shanto.9" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/fahmidurrahamanshanto" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </div>
 
 ## 💫 About Me
